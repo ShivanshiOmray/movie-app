@@ -1,8 +1,13 @@
-# React + Vite
+Movie App : https://poetic-elf-783d88.netlify.app
+# Movie App 🎥
+A web application built using **ReactJS** that leverages the **TMDB API** to display details about movies, TV shows, and trending content.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Features
+- **Search Functionality**: Search for movies and TV shows by name.
+- **Trending Section**: Discover trending movies and TV shows.
+- **Movie/Show Details**: View detailed information, including cast, synopsis, and ratings.
+- **Basic Design**: Straightforward and functional interface.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- **Frontend**: ReactJS, CSS (or any styling framework/library you used)
+- **API**: [TMDB API](https://www.themoviedb.org/documentation/api)
